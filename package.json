@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
-    "build": "webpack --config webpack.config.js",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
